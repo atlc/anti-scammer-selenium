@@ -28,19 +28,19 @@ let counter = 0;
             const reusesPW = Math.random() > 0.4;
             const sameNum = Math.random() > 0.85;
 
-            console.log({
-                person,
-                alt_college: alt,
-                hasAlt,
-                email,
-                alt_email,
-                password,
-                alt_password,
-                reusesPW,
-                phone: person.phone,
-                alt_phone,
-                sameNum
-            });
+            // console.log({
+            //     person,
+            //     alt_college: alt,
+            //     hasAlt,
+            //     email,
+            //     alt_email,
+            //     password,
+            //     alt_password,
+            //     reusesPW,
+            //     phone: person.phone,
+            //     alt_phone,
+            //     sameNum
+            // });
 
             /*
                 [
